@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanda+Kumar+Reddy;Frontend+Developer+%7C+React.js+%7C+Next.js;Building+GK+CRM+-+SaaS+for+Business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanda+Kumar+Reddy;Full+Stack+Developer+%7C+React.js+%7C+Next.js;Building+GK+CRM+-+SaaS+for+Business" alt="Typing SVG" />
 
-### 🚀 Frontend Developer | CRM SaaS Developer | Founder @ GKA1 Enterprises
+### 🚀 Full Stack Developer | CRM SaaS Developer | Founder @ GKA1 Enterprises
 
 Building modern **Business Management & CRM SaaS** applications.
 
@@ -20,9 +20,9 @@ Building modern **Business Management & CRM SaaS** applications.
 
 ## 👨‍💻 About Me
 
-- 💼 Frontend Developer, building full-stack CRM SaaS products
+- 💼 Full Stack Developer — React.js/Next.js frontend, Supabase/PostgreSQL backend
 - 🌱 Currently building **GK CRM** — a multi-tenant Business Management SaaS
-- 🚀 Passionate about React.js, Next.js & Full Stack Development
+- 🚀 Passionate about full-stack architecture — RLS security, database triggers, real-time systems
 - 🏢 Founder, **GKA1 Enterprises Pvt Ltd** (GK Home Interiors · GK Digital Solutions)
 - 📍 Hyderabad, Telangana, India
 - 🌐 [gkdigitalsolutions.in](https://gkdigitalsolutions.in)
@@ -54,10 +54,10 @@ Building modern **Business Management & CRM SaaS** applications.
 
 | Module | Highlights |
 |---|---|
-| 🎯 Lead Management | Multi-stage pipeline, ownership & visibility control, real-time updates |
+| 🎯 Lead Management | Multi-stage pipeline, ownership & visibility control (RLS + triggers), real-time updates |
 | 👥 HRMS | Attendance, leave accrual, payslip generation |
 | 💰 Billing & Finance | Invoices, quotations, payment tracking |
-| 🔐 Role-Based Access | Tenant admin, CRE, staff-level permissions |
+| 🔐 Role-Based Access | Tenant admin, CRE, staff-level permissions via Row-Level Security |
 | 📊 Dashboard Analytics | Live pipeline & revenue reporting |
 | 🏗️ Projects | Milestone-based payment tracker |
 
