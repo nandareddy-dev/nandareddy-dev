@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=B8860B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanda+Kumar+Reddy;Full+Stack+Developer+%7C+React.js+%7C+Next.js;Building+GK+CRM+-+SaaS+for+Business" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=B8860B&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanda+Kumar+Reddy;Full+Stack+Developer+%7C+React.js+%7C+Next.js;Building+GK+CRM+-+SaaS+for+Business" alt="Typing SVG" />
 
 ### 🚀 Full Stack Developer | CRM SaaS Developer | Founder @ GKA1 Enterprises
 
