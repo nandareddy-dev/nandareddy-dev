@@ -11,7 +11,7 @@ Building modern **Business Management & CRM SaaS** applications.
   <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js" />
   <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?style=flat-square&logo=supabase" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql" />
-  <img src="https://komarev.com/ghpvc/?username=nandareddy325&style=flat-square&color=B8860B" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nandareddy-dev&style=flat-square&color=B8860B" alt="Profile views" />
 </p>
 
 </div>
@@ -68,12 +68,12 @@ Building modern **Business Management & CRM SaaS** applications.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandareddy325&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandareddy325&theme=default" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nandareddy-dev&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandareddy-dev&theme=default" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandareddy325&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandareddy-dev&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
