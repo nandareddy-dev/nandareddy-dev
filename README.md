@@ -228,6 +228,6 @@ Notes on decisions made while building GK CRM — the parts that don't show up i
 
 **Thanks for stopping by.** If you're building something in the SaaS / CRM / business-tooling space, I'd enjoy comparing notes.
 
-⭐ *Star [GK CRM's](https://gkdigitalsolutions.in) landing page if this kind of work interests you.*
+⭐ *Star [GK CRM's](https://crm.gkdigitalsolutions.in) landing page if this kind of work interests you.*
 
 </div>
